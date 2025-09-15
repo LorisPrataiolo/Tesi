@@ -3,6 +3,7 @@
 % Including essential packages for thesis formatting
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+% \usepackage{libertinus}
 \usepackage{lmodern}
 \usepackage{tocloft}
 \usepackage{amsmath}
@@ -23,7 +24,7 @@
 % Setting up hyperlink styles
 \hypersetup{
     colorlinks=true,
-    linkcolor=blue,
+    linkcolor=black,
     filecolor=magenta,      
     urlcolor=cyan,
     citecolor=blue
@@ -48,8 +49,22 @@
 
 \input{capitoli/frontespizio.tex}
 
+\input{capitoli/pagina_vuota.tex}
+
 \input{capitoli/abstract.tex}
 
+\input{capitoli/pagina_vuota.tex}
+\tableofcontents
+
+\input{capitoli/pagina_vuota.tex}
+
+\chapter{Introduzione}
+\input{capitoli/introduzione.tex}
+
+
+
+\chapter{Tecnologie e Modelli Object Detection}
+\input{capitoli/tecnologie_modelli.tex}
 \end{document}
 
 
