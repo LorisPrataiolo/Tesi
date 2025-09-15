@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1757919882 "/home/loris/Desktop/Università/Tesi/main.tex" "main.pdf" "main" 1757919883
+["pdflatex"] 1757924341 "/home/loris/Desktop/Università/Tesi/main.tex" "main.pdf" "main" 1757924341
   "/etc/texmf/web2c/texmf.cnf" 1756917481 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/loris/Desktop/Università/Tesi/main.tex" 1757916458 1028 fdfb05c6642cf7a50a9284e62869f488 ""
+  "/home/loris/Desktop/Università/Tesi/main.tex" 1757921399 1059 5c301d3be9aebe78def70879696d8e1d ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1136768653 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
@@ -89,11 +89,12 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1757277085 128079 8307b05160bf39a2fd341a004bf1a4b3 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1757277088 1405644 cb47f9f953631c559fe98660020db704 ""
-  "capitoli/frontespizio.tex" 1757919882 1241 76426dbefc1b1fd90b67acbdf5a86266 ""
+  "capitoli/abstract.tex" 1757924341 944 ce536671fb6f3fd00ddab289bd51a374 ""
+  "capitoli/frontespizio.tex" 1757919909 1241 76426dbefc1b1fd90b67acbdf5a86266 ""
   "images/universita-degli-studi-di-genova-logo-vector.png" 1757916610 12511 f82f38473dbd34e6b284572e1faf2a01 ""
-  "main.aux" 1757919883 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
-  "main.out" 1757919882 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1757916458 1028 fdfb05c6642cf7a50a9284e62869f488 ""
+  "main.aux" 1757924341 686 4ce905362b6645b598ea182482e9aeed "pdflatex"
+  "main.out" 1757924341 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1757921399 1059 5c301d3be9aebe78def70879696d8e1d ""
   (generated)
   "main.aux"
   "main.log"
