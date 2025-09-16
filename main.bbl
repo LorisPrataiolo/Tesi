@@ -1,0 +1,27 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bali(2024)]{RaghavODBeginnersGuide2024}
+Raghav Bali.
+\newblock Object detection basics - a comprehensive beginner's guide (part 1).
+\newblock
+  \url{https://towardsdatascience.com/object-detection-basics-a-comprehensive-beginners-guide-part-1-f57380c89b78/},
+  2024.
+
+\bibitem[Hollwmans(2018)]{HollwmansOneStageObjectDetection2018}
+Matthijs Hollwmans.
+\newblock One-stage object detection.
+\newblock \url{https://machinethink.net/blog/object-detection/}, 2018.
+
+\bibitem[Serdarildercaglar(2024)]{SerdarildercaglarObjectDetectionModelTraining2024}
+Serdarildercaglar.
+\newblock Object detection model training: A comprehensive guide for beginners.
+\newblock
+  \url{https://medium.com/@serdarildercaglar/object-detection-model-training-a-comprehensive-guide-for-beginners-d5a1274e7ac7},
+  2024.
+
+\end{thebibliography}

@@ -1,10 +1,11 @@
-\documentclass[a4paper,12pt]{report}
+\documentclass[a4paper,10pt]{report}
 
 % Including essential packages for thesis formatting
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 % \usepackage{libertinus}
 \usepackage{lmodern}
+\usepackage{float}[H]
 \usepackage{tocloft}
 \usepackage{amsmath}
 \usepackage{graphicx}
@@ -12,8 +13,9 @@
 \usepackage{setspace}
 \usepackage{booktabs}
 \usepackage{hyperref}
-\usepackage{natbib}
 \usepackage{enumitem}
+\usepackage{natbib}
+
 
 % Setting graphic path for images
 \graphicspath{{./images/}}
@@ -63,8 +65,15 @@
 
 
 
+
 \chapter{Tecnologie e Modelli Object Detection}
 \input{capitoli/tecnologie_modelli.tex}
+
+
+% Bibliography
+~\cite{*}
+\bibliographystyle{plainnat}
+\bibliography{capitoli/references}
 \end{document}
 
 
