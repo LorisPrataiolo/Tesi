@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: plainnat.bst
 Database file #1: capitoli/references.bib
-You've used 3 entries,
+You've used 5 entries,
             2773 wiz_defined-function locations,
-            609 strings with 5566 characters,
-and the built_in function-call counts, 915 in all, are:
-= -- 78
-> -- 30
-< -- 3
-+ -- 12
-- -- 9
-* -- 41
-:= -- 145
-add.period$ -- 9
-call.type$ -- 3
-change.case$ -- 12
-chr.to.int$ -- 3
-cite$ -- 6
-duplicate$ -- 45
-empty$ -- 97
-format.name$ -- 12
-if$ -- 193
+            619 strings with 6067 characters,
+and the built_in function-call counts, 1503 in all, are:
+= -- 130
+> -- 50
+< -- 5
++ -- 20
+- -- 15
+* -- 67
+:= -- 235
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 20
+chr.to.int$ -- 5
+cite$ -- 10
+duplicate$ -- 75
+empty$ -- 161
+format.name$ -- 20
+if$ -- 321
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 0
-newline$ -- 23
-num.names$ -- 12
-pop$ -- 36
+newline$ -- 33
+num.names$ -- 20
+pop$ -- 60
 preamble$ -- 1
-purify$ -- 9
+purify$ -- 15
 quote$ -- 0
-skip$ -- 40
+skip$ -- 66
 stack$ -- 0
-substring$ -- 6
-swap$ -- 3
+substring$ -- 10
+swap$ -- 5
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 33
+type$ -- 55
 warning$ -- 0
-while$ -- 9
+while$ -- 15
 width$ -- 0
-write$ -- 43
+write$ -- 67

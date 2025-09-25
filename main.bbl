@@ -1,4 +1,4 @@
-\begin{thebibliography}{3}
+\begin{thebibliography}{5}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -17,8 +17,23 @@ Matthijs Hollwmans.
 \newblock One-stage object detection.
 \newblock \url{https://machinethink.net/blog/object-detection/}, 2018.
 
-\bibitem[Serdarildercaglar(2024)]{SerdarildercaglarObjectDetectionModelTraining2024}
-Serdarildercaglar.
+\bibitem[Karmarkar(2018)]{TanayKarmarkarRegionProposalNetwork2018}
+Tanay Karmarkar.
+\newblock Region proposal network (rpn) - backbone of faster r-cnn.
+\newblock
+  \url{https://medium.com/@codeplumber/region-proposal-network-rpn-backbone-of-faster-r-cnn-4a744a38d7f9},
+  2018.
+
+\bibitem[Singh(2024)]{RishabhSinghUnderstandingImplementingFaster2024}
+Rishabh Singh.
+\newblock understanding and implementing faster r-cnn.
+\newblock
+  \url{https://medium.com/@RobuRishabh/understanding-and-implementing-faster-r-cnn-248f7b25ff96},
+  2024.
+
+\bibitem[İlder
+  Çağlar(2024)]{SerdarildercaglarObjectDetectionModelTraining2024}
+Serdar İlder Çağlar.
 \newblock Object detection model training: A comprehensive guide for beginners.
 \newblock
   \url{https://medium.com/@serdarildercaglar/object-detection-model-training-a-comprehensive-guide-for-beginners-d5a1274e7ac7},
