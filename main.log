@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.9.7)  25 SEP 2025 13:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.9.7)  25 SEP 2025 13:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -509,9 +509,9 @@ Chapter 2.
 <images/car-bounding-boxes-sample.jpg, id=92, 803.0pt x 459.7175pt>
 File: images/car-bounding-boxes-sample.jpg Graphic file (type jpg)
 <use images/car-bounding-boxes-sample.jpg>
-Package pdftex.def Info: images/car-bounding-boxes-sample.jpg  used on input line 31.
+Package pdftex.def Info: images/car-bounding-boxes-sample.jpg  used on input line 37.
 (pdftex.def)             Requested size: 208.41644pt x 119.3203pt.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 34.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 40.
  (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [5
@@ -520,35 +520,35 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 <images/OD-dataset-sample-pascal-voc-07.png, id=101, 207.77625pt x 101.37875pt>
 File: images/OD-dataset-sample-pascal-voc-07.png Graphic file (type png)
 <use images/OD-dataset-sample-pascal-voc-07.png>
-Package pdftex.def Info: images/OD-dataset-sample-pascal-voc-07.png  used on input line 45.
+Package pdftex.def Info: images/OD-dataset-sample-pascal-voc-07.png  used on input line 53.
 (pdftex.def)             Requested size: 208.41644pt x 101.6956pt.
 
-Overfull \hbox (8.77942pt too wide) in paragraph at lines 59--65
+Overfull \hbox (8.77942pt too wide) in paragraph at lines 71--77
 \T1/lmr/m/n/10 Il dataset in un con-testo di Ob-ject De-tec-tion è un as-petto cru-ciale per il suc-cesso dell'addestramento
  []
 
 [6 <./images/car-bounding-boxes-sample.jpg> <./images/OD-dataset-sample-pascal-voc-07.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 98--103
+Underfull \hbox (badness 10000) in paragraph at lines 117--122
 
  []
 
 <images/faster_rcnn_architecture.png, id=113, 1002.74625pt x 1069.9975pt>
 File: images/faster_rcnn_architecture.png Graphic file (type png)
 <use images/faster_rcnn_architecture.png>
-Package pdftex.def Info: images/faster_rcnn_architecture.png  used on input line 114.
+Package pdftex.def Info: images/faster_rcnn_architecture.png  used on input line 136.
 (pdftex.def)             Requested size: 208.41644pt x 222.3877pt.
 
-Overfull \hbox (79.13828pt too wide) in paragraph at lines 116--116
+Overfull \hbox (79.13828pt too wide) in paragraph at lines 138--138
 \T1/lmr/m/n/10 Fonte: [][]$\T1/lmtt/m/n/10 https : / / medium . com / @RobuRishabh / understanding-[]and-[]implementing-[]faster-[]r-[]cnn-[]248f7b25ff96$[][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--122
+Underfull \hbox (badness 10000) in paragraph at lines 143--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--131
+Underfull \hbox (badness 10000) in paragraph at lines 147--155
 
  []
 
@@ -556,25 +556,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--131
 <images/kubernates-kubeflow-schema.png, id=124, 2409.0pt x 1264.725pt>
 File: images/kubernates-kubeflow-schema.png Graphic file (type png)
 <use images/kubernates-kubeflow-schema.png>
-Package pdftex.def Info: images/kubernates-kubeflow-schema.png  used on input line 147.
+Package pdftex.def Info: images/kubernates-kubeflow-schema.png  used on input line 176.
 (pdftex.def)             Requested size: 291.78174pt x 153.1692pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--149
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
 \T1/lmr/m/n/10 Fonte: [][]$\T1/lmtt/m/n/10 https : / / www . reddit . com / r / kubernetes / comments / zxddtv / fastkubeflow _
  []
 
 
-Overfull \hbox (16.58453pt too wide) in paragraph at lines 153--155
+Overfull \hbox (16.58453pt too wide) in paragraph at lines 183--185
 \T1/lmr/m/n/10 La col-lab-o-razione tra Kube-flow e Ku-ber-netes verrà, qui di se-guito anal-iz-zata uti-liz-zando un'approccio
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--155
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--162
+Underfull \hbox (badness 10000) in paragraph at lines 188--193
 
  []
 
@@ -582,47 +582,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--162
 <images/kubeflow-components.png, id=134, 2340.745pt x 1170.3725pt>
 File: images/kubeflow-components.png Graphic file (type png)
 <use images/kubeflow-components.png>
-Package pdftex.def Info: images/kubeflow-components.png  used on input line 167.
+Package pdftex.def Info: images/kubeflow-components.png  used on input line 199.
 (pdftex.def)             Requested size: 291.78174pt x 145.88545pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--195
+Underfull \hbox (badness 10000) in paragraph at lines 228--230
 
  []
 
 <images/overview-ml-pipeline-structure.jpg, id=138, 467.7475pt x 150.5625pt>
 File: images/overview-ml-pipeline-structure.jpg Graphic file (type jpg)
 <use images/overview-ml-pipeline-structure.jpg>
-Package pdftex.def Info: images/overview-ml-pipeline-structure.jpg  used on input line 203.
+Package pdftex.def Info: images/overview-ml-pipeline-structure.jpg  used on input line 240.
 (pdftex.def)             Requested size: 291.78174pt x 93.92442pt.
 
-Overfull \hbox (159.88805pt too wide) in paragraph at lines 205--205
+Overfull \hbox (159.88805pt too wide) in paragraph at lines 242--242
 \T1/lmr/m/n/10 Fonte: [][]$\T1/lmtt/m/n/10 https : / / www . design-[]reuse . com / article / 61411-[]an-[]overview-[]of-[]machine-[]learning-[]pipeline-[]and-[]its-[]importance/$[][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--217
+Underfull \hbox (badness 10000) in paragraph at lines 247--255
 
  []
 
 [9
 
  <./images/kubeflow-components.png> <./images/overview-ml-pipeline-structure.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 218--226
+Underfull \hbox (badness 10000) in paragraph at lines 257--265
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--233
+Underfull \hbox (badness 10000) in paragraph at lines 267--273
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--248
+Underfull \hbox (badness 10000) in paragraph at lines 286--291
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--258
+Underfull \hbox (badness 10000) in paragraph at lines 293--302
 
  []
 
@@ -693,7 +693,7 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{cite.*} has been referenced but does not exist, replaced by a fixed one
 
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (14 pages, 1066390 bytes).
+Output written on main.pdf (14 pages, 1066452 bytes).
 PDF statistics:
  221 PDF objects out of 1000 (max. 8388607)
  173 compressed objects within 2 object streams

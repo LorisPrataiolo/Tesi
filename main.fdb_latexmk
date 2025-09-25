@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1758799299 "main.aux" "main.bbl" "main" 1758799304
+["bibtex main"] 1758799299 "main.aux" "main.bbl" "main" 1758801132
   "/usr/share/texlive/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1233624470 26816 ffe5423d2019860bad9f54bc402fac15 ""
   "capitoli/references.bib" 1758792863 1408 30f87663693d07155a7f4e53b980c26d ""
-  "main.aux" 1758799304 6322 7ca8d051bf17f0c04cd6ee6c1a97cc38 "pdflatex"
+  "main.aux" 1758801131 6322 7ca8d051bf17f0c04cd6ee6c1a97cc38 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1758799299 "/home/loris/Desktop/Università/Tesi/main.tex" "main.pdf" "main" 1758799304
+["pdflatex"] 1758801126 "/home/loris/Desktop/Università/Tesi/main.tex" "main.pdf" "main" 1758801132
   "/etc/texmf/web2c/texmf.cnf" 1756917481 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/loris/Desktop/Università/Tesi/main.tex" 1758795040 1460 268b40c67cdcad60c32bbc386d8ba604 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -113,7 +113,7 @@
   "capitoli/frontespizio.tex" 1758039412 1093 238e2ada0741b91f0c1db4e3a83f86c3 ""
   "capitoli/introduzione.tex" 1757950321 1636 2b565edf73812fcf20b3c351cbfa9345 ""
   "capitoli/pagina_vuota.tex" 1757926020 47 c0dedd8bd1b21ae5d22b7ac6f015f66e ""
-  "capitoli/tecnologie_modelli.tex" 1758799293 15632 bb9ad15f17040b22291f48902d8f3ef5 ""
+  "capitoli/tecnologie_modelli.tex" 1758801126 15608 b9a628891d720e044cc6a98ccac69fb8 ""
   "images/OD-dataset-sample-pascal-voc-07.png" 1758034319 7396 4e20a8a0008bb098069215852aa3491a ""
   "images/car-bounding-boxes-sample.jpg" 1758033074 52250 3c15e9f970d18c1c425e7abc2acca888 ""
   "images/faster_rcnn_architecture.png" 1758790849 404879 afb480ded58100187c8330c386578ca8 ""
@@ -121,11 +121,11 @@
   "images/kubernates-kubeflow-schema.png" 1758793432 239735 58811afe34718d30fd82eb7bd1335f8c ""
   "images/overview-ml-pipeline-structure.jpg" 1758796196 14361 f34ef0b95cc7d7596c5428a68c1afef1 ""
   "images/universita-degli-studi-di-genova-logo-vector.png" 1757916610 12511 f82f38473dbd34e6b284572e1faf2a01 ""
-  "main.aux" 1758799304 6322 7ca8d051bf17f0c04cd6ee6c1a97cc38 "pdflatex"
+  "main.aux" 1758801131 6322 7ca8d051bf17f0c04cd6ee6c1a97cc38 "pdflatex"
   "main.bbl" 1758799299 1618 98db1429d09d88744c2f09f7d1040778 "bibtex main"
-  "main.out" 1758799304 2329 75f2bca4d7b9b5f61a4d6a774ec6533d "pdflatex"
+  "main.out" 1758801131 2329 75f2bca4d7b9b5f61a4d6a774ec6533d "pdflatex"
   "main.tex" 1758795040 1460 268b40c67cdcad60c32bbc386d8ba604 ""
-  "main.toc" 1758799304 1376 5e36f21f49ec4dc6d3dd72c2882a3035 "pdflatex"
+  "main.toc" 1758801131 1376 5e36f21f49ec4dc6d3dd72c2882a3035 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
